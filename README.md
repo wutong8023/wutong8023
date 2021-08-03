@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wutong8023" alt="wutong8023" /> </p>
 
-I am a Ph.D. candidate in school of computer science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (Southeast University), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash University) and Prof. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash University). My research interests include low-resource natural language processing and machine learning, especially information extraction, dialogue system, few-shot learning, and continual learning.
+I am Tong, a Ph.D. candidate in school of computer science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (Southeast University), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash University) and Prof. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash University). My research interests include low-resource natural language processing and machine learning, especially information extraction, dialogue system, few-shot learning, and continual learning.
 
 ### Contact
 
