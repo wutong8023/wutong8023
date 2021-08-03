@@ -47,7 +47,7 @@ I am Tong, a Ph.D. candidate in school of computer science at Southeast Universi
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/wutong8023/github-readme-stats">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=wutong8023&count_private=true&show_icons=true"/>
   </a>
 </p>
